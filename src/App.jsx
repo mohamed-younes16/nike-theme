@@ -7,13 +7,12 @@ import Offer from './components/Offer'
 import Products from './components/Products'
 import Reviews from './components/Reviews'
 import './index.css'
-
-
-   
 function App() {
 
     return (<>
 
+    
+        
     <Navbar/>
     <Landing/>
     <Products/>
@@ -22,8 +21,6 @@ function App() {
     <Reviews/>
     <Contact/>
     <Footer/>
-    
-    
     </>)
 
 }
