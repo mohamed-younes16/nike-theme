@@ -1,7 +1,7 @@
 {
   "homepage": "http://mohamed-younes16.github.io/nike-theme",
   "name": "vite-project",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
