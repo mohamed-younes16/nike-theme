@@ -1,7 +1,7 @@
 
 export default function Contact() {
   return (
-    <div className="container mx-auto ">
+    <div className="container mx-auto " id="contact">
         <div className="flex justify-between items-center max-lg:flex-wrap max-lg:justify-center max-lg:text-center">
         <h3 className="font-bold text-5xl max-w-md leading-[70px] font-palanquin">Sign Up from <span className="text-orange-600">Updates</span> & Newsletter</h3>
         <form action="" className="border w-2/5 mt-6 border-gray-400  max-lg:w-full justify-between rounded-full flex max-h-20 p-3 items-center">

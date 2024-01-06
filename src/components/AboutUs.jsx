@@ -11,15 +11,15 @@ export default function AboutUs() {
     <h2 className="font-bold font-palanquin text-5xl leading-[55px]">
     We Provide You <span className="text-orange-700">Super</span><br /><span className="text-orange-700">Quality</span>   Shoes
     </h2>
-    <p className="text-xl mt-6 leading-10 text-gray-500 md:w-3/4">
+    <p  className="text-xl mt-6 leading-10 text-gray-500 md:w-3/4">
     Ensuring premium comfort and style, our meticulously crafted footwear is designed to elevate your experience,
     providing you with unmatched quality, innovation, and a touch of elegance.
     
-    <p className="my-4">Our dedication to detail and excellence ensures your satisfaction</p>
+    <span className="my-4">Our dedication to detail and excellence ensures your satisfaction</span>
     </p>
 
-    <button className='group/shop mb-10 duration-300 hover:translate-y-1 hover:shadow-orange-700 mt-10 bg-orange-700  
-py-4 px-3 text-white shadow-lg shadow-orange-900  
+    <button className='group/shop mb-10 duration-300 hover:translate-x-[2px] hover:translate-y-1 hover:shadow-orange-700 mt-10 bg-orange-700  
+py-4 px-3 text-white shadow-lg shadow-orange-800  
 leading-none hover:text-black transition rounded-full text-xl w-fit flex gap-2 items-center '>
 Shop Now 
 <img className=' transition group-hover/shop:translate-x-2' src={arrowRight}
